@@ -109,6 +109,6 @@ Hacktoberfest® is open to everyone in our global community. Whether you’re a 
   * **HemalKit** - [HemalKit](https://github.com/HemalKit)
   * **sarithay** - [sarithay](https://github.com/sarithay)
   * **he--** - [he--](https://github.com/he--)
-
+  * **Ogluisg** [Ogluisg](https://github.com/ogluisg)
 See also the list of [contributors](https://github.com/ManuelGil/Hacktoberfest/contributors)
  who participated in this project.
