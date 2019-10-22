@@ -108,6 +108,8 @@ Hacktoberfest® is open to everyone in our global community. Whether you’re a 
   * **Akash Nidhi P S** - [SkyTreasure](https://github.com/SkyTreasure)
   * **HemalKit** - [HemalKit](https://github.com/HemalKit)
   * **sarithay** - [sarithay](https://github.com/sarithay)
+  * ***Jamal** - [Jamal](https://github.com/jamaluddinfikri)
+  * **he--** - [he--](https://github.com/he--)
   * **Sandro Pirtskhalava** - [sarithay](https://github.com/spirtskhalava)
   * **he--** - [he--](https://github.com/he--)
   * **Daniel Campos** - [DanielCamposs98](https://github.com/DanielCamposs98)
