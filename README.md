@@ -115,6 +115,7 @@ Hacktoberfest® is open to everyone in our global community. Whether you’re a 
   * **Raj Pathare** - [RajPathare](https://github.com/RajPathare)
   * **nipeharefa** - [nipeharefa](https://github.com/nipeharefa)
   * **Gerald Halomoan Samosir** - [geraldsamosir](https://github.com/geraldsamosir)
+  * **Phunara Ruangyoo** - [Omigus](https://github.com/omigus)
 
 See also the list of [contributors](https://github.com/ManuelGil/Hacktoberfest/contributors)
  who participated in this project.
