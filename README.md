@@ -110,6 +110,7 @@ Hacktoberfest® is open to everyone in our global community. Whether you’re a 
   * **sarithay** - [sarithay](https://github.com/sarithay)
   * **Sandro Pirtskhalava** - [sarithay](https://github.com/spirtskhalava)
   * **he--** - [he--](https://github.com/he--)
+  * **Daniel Campos** - [DanielCamposs98](https://github.com/DanielCamposs98)
   * **Rafael De Luna** - [RDLL](https://github.com/RDLL)
   * **Raj Pathare** - [RajPathare](https://github.com/RajPathare)
   * **nipeharefa** - [nipeharefa](https://github.com/nipeharefa)
