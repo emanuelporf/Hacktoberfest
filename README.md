@@ -108,8 +108,12 @@ Hacktoberfest® is open to everyone in our global community. Whether you’re a 
   * **Akash Nidhi P S** - [SkyTreasure](https://github.com/SkyTreasure)
   * **HemalKit** - [HemalKit](https://github.com/HemalKit)
   * **sarithay** - [sarithay](https://github.com/sarithay)
+  * **Sandro Pirtskhalava** - [sarithay](https://github.com/spirtskhalava)
   * **he--** - [he--](https://github.com/he--)
   * **Rafael De Luna** - [RDLL](https://github.com/RDLL)
+  * **Raj Pathare** - [RajPathare](https://github.com/RajPathare)
+  * **nipeharefa** - [nipeharefa](https://github.com/nipeharefa)
+  * **Gerald Halomoan Samosir** - [geraldsamosir](https://github.com/geraldsamosir)
 
 See also the list of [contributors](https://github.com/ManuelGil/Hacktoberfest/contributors)
  who participated in this project.
