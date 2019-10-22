@@ -110,6 +110,7 @@ Hacktoberfest® is open to everyone in our global community. Whether you’re a 
   * **sarithay** - [sarithay](https://github.com/sarithay)
   * **Sandro Pirtskhalava** - [sarithay](https://github.com/spirtskhalava)
   * **he--** - [he--](https://github.com/he--)
+  * **Gerald Halomoan Samosir** - [geraldsamosir](https://github.com/geraldsamosir)
 
 See also the list of [contributors](https://github.com/ManuelGil/Hacktoberfest/contributors)
  who participated in this project.
