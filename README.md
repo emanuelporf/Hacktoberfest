@@ -121,6 +121,7 @@ Hacktoberfest® is open to everyone in our global community. Whether you’re a 
   * **Gerald Halomoan Samosir** - [geraldsamosir](https://github.com/geraldsamosir)
   * **Phunara Ruangyoo** - [Omigus](https://github.com/omigus)
   * **Shubham Saurav** - [sauravshub1](https://github.com/sauravshub1)
+  * **Rohit V** - [Rohitv97](https://github.com/Rohitv97)
 
 See also the list of [contributors](https://github.com/ManuelGil/Hacktoberfest/contributors)
  who participated in this project.
